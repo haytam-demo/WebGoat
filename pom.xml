@@ -174,11 +174,7 @@
         <artifactId>jsoup</artifactId>
         <version>${jsoup.version}</version>
       </dependency>
-      <dependency>
-        <groupId>com.nulab-inc</groupId>
-        <artifactId>zxcvbn</artifactId>
-        <version>${zxcvbn.version}</version>
-      </dependency>
+
       <dependency>
         <groupId>com.thoughtworks.xstream</groupId>
         <artifactId>xstream</artifactId>
